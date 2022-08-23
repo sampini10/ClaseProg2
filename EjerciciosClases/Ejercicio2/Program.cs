@@ -11,22 +11,22 @@ namespace Ejercicio2
              * mostrar el mensaje: "ERROR. ¡Reingresar número!".*/
 
             Console.WriteLine("Ingrese el numero");
-            string n = Console.ReadLine();
-            double numero;
-            double cubo;
-            double cuadrado;
-            bool result = double.TryParse(n, out numero);
+            string numeroString = Console.ReadLine();
+            double numeroIngresado;
+            double numeroAlCubo;
+            double numeroAlCuadrado;
+            bool result = double.TryParse(numeroString, out numeroIngresado);
 
-            while(!result || numero < 0)
+            while(!result || numeroIngresado < 0)
             {
                 Console.WriteLine("ERROR. ¡Reingresar número!");
-                n = Console.ReadLine();
-                result = double.TryParse(n, out numero);
+                numeroString = Console.ReadLine();
+                result = double.TryParse(numeroString, out numeroIngresado);
             }
-            cubo = Math.Pow(numero, 3);
-            cuadrado = Math.Pow(numero, 2);
-            Console.WriteLine($"El cuadrado de {numero} es {cuadrado}");
-            Console.WriteLine($"El cubo de {numero} es {cubo}");
+            numeroAlCubo = Math.Pow(numeroIngresado, 3);
+            numeroAlCuadrado = Math.Pow(numeroIngresado, 2);
+            Console.WriteLine($"El cuadrado de {numeroIngresado} es {numeroAlCuadrado}");
+            Console.WriteLine($"El cubo de {numeroIngresado} es {numeroAlCubo}");
         }
     }
 }

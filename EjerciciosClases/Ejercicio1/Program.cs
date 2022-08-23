@@ -9,49 +9,49 @@ namespace Ejercicio1
     {
         static void Main(string[] args)
         {
-            string n;
-            float num;
+            string numeroString;
+            float numeroIngresado;
             bool result;
-            float max = float.MinValue;
-            float min = float.MaxValue;
-            float Promedio = 0;
+            float numeroMaximo = float.MinValue;
+            float numeroMinimo = float.MaxValue;
+            float numerosPromedio = 0;
 
             Console.WriteLine("Ingrese 5 numeros");
 
             for (int i = 0; i < 5; i++)
             {
-                n = Console.ReadLine();
-                result = float.TryParse(n, out num);
+                numeroString = Console.ReadLine();
+                result = float.TryParse(numeroString, out numeroIngresado);
                 if (result)
                 {
                     Console.WriteLine("Numero Guardado");
-                    if (num > max)
+                    if (numeroIngresado > numeroMaximo)
                     {
-                        max = num;
+                        numeroMaximo = numeroIngresado;
                     }
-                    if (num < min)
+                    if (numeroIngresado < numeroMinimo)
                     {
-                        min = num;
+                        numeroMinimo = numeroIngresado;
                     }
-                    Promedio += num;
+                    numerosPromedio += numeroIngresado;
                 }
                 else
                 {
                     Console.WriteLine("No se guardo, ingreso incorrectamente");
                 }
             }
-            Promedio = Promedio / 5;
-            Console.WriteLine($"El numero maximo es: {max}");
-            Console.WriteLine($"El numero minimo es: {min}");
-            Console.WriteLine($"El promedio es: {Promedio}");
+            numerosPromedio = numerosPromedio / 5;
+            Console.WriteLine($"El numero maximo es: {numeroMaximo}");
+            Console.WriteLine($"El numero minimo es: {numeroMinimo}");
+            Console.WriteLine($"El promedio es: {numerosPromedio}");
 
             //int[] numeros = new int[5];
 
             //Console.WriteLine("Ingrese 5 numeros: ");
             //for(int i = 0; i < numeros.Length; i++ )
             //{
-            //    string n = Console.ReadLine();
-            //    if(int.TryParse(n, out numeros[i]))
+            //    string numeroString = Console.ReadLine();
+            //    if(int.TryParse(numeroString, out numeros[i]))
             //    {
             //        Console.WriteLine("Guardado");
             //    }
