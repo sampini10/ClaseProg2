@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Facultad\\ProgramacionC#\\EjercitacionClase-Sampini-Nicolas\\Introduccion a .NET\\Ejercicio6\\Ejercicio6.csproj",
-      "projectName": "ElEJemploUniversal",
-      "projectPath": "D:\\Facultad\\ProgramacionC#\\EjercitacionClase-Sampini-Nicolas\\Introduccion a .NET\\Ejercicio6\\Ejercicio6.csproj",
+      "projectUniqueName": "D:\\Facultad\\ProgramacionC#\\EjercitacionClase-Sampini-Nicolas\\Programacion Orientada a Objetos\\CreoQueNecesitoUnPrestamo\\CreoQueNecesitoUnPrestamo.csproj",
+      "projectName": "CreoQueNecesitoUnPrestamo",
+      "projectPath": "D:\\Facultad\\ProgramacionC#\\EjercitacionClase-Sampini-Nicolas\\Programacion Orientada a Objetos\\CreoQueNecesitoUnPrestamo\\CreoQueNecesitoUnPrestamo.csproj",
       "packagesPath": "C:\\Users\\Sampini\\.nuget\\packages\\",
-      "outputPath": "D:\\Facultad\\ProgramacionC#\\EjercitacionClase-Sampini-Nicolas\\Introduccion a .NET\\ElEJemploUniversal\\obj\\",
+      "outputPath": "D:\\Facultad\\ProgramacionC#\\EjercitacionClase-Sampini-Nicolas\\Programacion Orientada a Objetos\\CreoQueNecesitoUnPrestamo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
