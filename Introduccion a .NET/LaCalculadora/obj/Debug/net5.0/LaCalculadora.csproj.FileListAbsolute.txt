@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\bin\Debug\net5.0\LaCalculadora.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\bin\Debug\net5.0\LaCalculadora.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\bin\Debug\net5.0\LaCalculadora.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\bin\Debug\net5.0\LaCalculadora.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\bin\Debug\net5.0\LaCalculadora.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\bin\Debug\net5.0\LaCalculadora.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\refint\LaCalculadora.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\LaCalculadora.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\LaCalculadora\obj\Debug\net5.0\ref\LaCalculadora.dll

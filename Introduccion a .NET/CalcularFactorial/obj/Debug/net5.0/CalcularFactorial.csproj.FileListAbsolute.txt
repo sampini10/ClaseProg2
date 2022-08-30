@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\bin\Debug\net5.0\CalcularFactorial.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\bin\Debug\net5.0\CalcularFactorial.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\bin\Debug\net5.0\CalcularFactorial.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\bin\Debug\net5.0\CalcularFactorial.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\bin\Debug\net5.0\CalcularFactorial.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\bin\Debug\net5.0\CalcularFactorial.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\refint\CalcularFactorial.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\CalcularFactorial.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CalcularFactorial\obj\Debug\net5.0\ref\CalcularFactorial.dll

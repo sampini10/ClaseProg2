@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\bin\Debug\net5.0\Ejercicio4.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\bin\Debug\net5.0\Ejercicio4.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\bin\Debug\net5.0\Ejercicio4.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\bin\Debug\net5.0\Ejercicio4.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\bin\Debug\net5.0\Ejercicio4.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\refint\Ejercicio4.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\Ejercicio4.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\EjerciciosClases\Ejercicio4\obj\Debug\net5.0\ref\Ejercicio4.dll

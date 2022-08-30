@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\refint\CreoQueNecesitoUnPrestamo.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\ref\CreoQueNecesitoUnPrestamo.dll

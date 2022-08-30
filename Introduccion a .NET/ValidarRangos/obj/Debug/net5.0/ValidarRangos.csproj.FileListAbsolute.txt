@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\bin\Debug\net5.0\ValidarRangos.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\bin\Debug\net5.0\ValidarRangos.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\bin\Debug\net5.0\ValidarRangos.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\bin\Debug\net5.0\ValidarRangos.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\bin\Debug\net5.0\ValidarRangos.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\bin\Debug\net5.0\ValidarRangos.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\refint\ValidarRangos.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ValidarRangos.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\ValidarRangos\obj\Debug\net5.0\ref\ValidarRangos.dll

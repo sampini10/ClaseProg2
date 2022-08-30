@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\refint\DeseaContinuar.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\DeseaContinuar\obj\Debug\net5.0\ref\DeseaContinuar.dll

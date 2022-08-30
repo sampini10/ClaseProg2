@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\bin\Debug\net5.0\CuantasPrimaveras.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\bin\Debug\net5.0\CuantasPrimaveras.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\bin\Debug\net5.0\CuantasPrimaveras.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\bin\Debug\net5.0\CuantasPrimaveras.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\bin\Debug\net5.0\CuantasPrimaveras.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\bin\Debug\net5.0\CuantasPrimaveras.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\refint\CuantasPrimaveras.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\CuantasPrimaveras.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Introduccion a .NET\CuantasPrimaveras\obj\Debug\net5.0\ref\CuantasPrimaveras.dll
