@@ -37,6 +37,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CuantasPrimaveras", "..\Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElEJemploUniversal", "..\Programacion Orientada a Objetos\ElEJemploUniversal\ElEJemploUniversal.csproj", "{58C76779-BA67-4B38-8120-7B8C5799AFEF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios Extra", "Ejercicios Extra", "{875C6E2E-3A5B-45DE-BC51-E7273A3E9979}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Colecciones", "4-Colecciones", "{1D694844-887D-4664-901D-4C56DFDBE8FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NúmerosLocos", "..\Colecciones\NúmerosLocos\NúmerosLocos.csproj", "{F90E3AE2-557C-437B-AFF8-A8253D302163}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstadisticaDeportiva", "..\Colecciones\EstadisticaDeportiva\EstadisticaDeportiva.csproj", "{C3EB899E-F6A8-490C-A2A2-931950320B97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Windows Form", "5-Windows Form", "{AD7287CC-649D-434A-88FA-32A012019888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaWindowsForm", "..\Windows Forms\HolaWindowsForm\HolaWindowsForm.csproj", "{815CABA1-7F17-4F79-B967-458E3E418560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +111,18 @@ Global
 		{58C76779-BA67-4B38-8120-7B8C5799AFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C76779-BA67-4B38-8120-7B8C5799AFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C76779-BA67-4B38-8120-7B8C5799AFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90E3AE2-557C-437B-AFF8-A8253D302163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90E3AE2-557C-437B-AFF8-A8253D302163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90E3AE2-557C-437B-AFF8-A8253D302163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90E3AE2-557C-437B-AFF8-A8253D302163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3EB899E-F6A8-490C-A2A2-931950320B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EB899E-F6A8-490C-A2A2-931950320B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EB899E-F6A8-490C-A2A2-931950320B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EB899E-F6A8-490C-A2A2-931950320B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815CABA1-7F17-4F79-B967-458E3E418560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815CABA1-7F17-4F79-B967-458E3E418560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815CABA1-7F17-4F79-B967-458E3E418560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815CABA1-7F17-4F79-B967-458E3E418560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +142,9 @@ Global
 		{51DB907D-E527-4EBD-946B-6C2354173A8F} = {1EF2A385-B6AE-44C1-A5AE-ED2EC2DDF2B3}
 		{BEA701DB-1151-456E-B5A3-D1E7CCB5C30E} = {1EF2A385-B6AE-44C1-A5AE-ED2EC2DDF2B3}
 		{58C76779-BA67-4B38-8120-7B8C5799AFEF} = {1EF2A385-B6AE-44C1-A5AE-ED2EC2DDF2B3}
+		{F90E3AE2-557C-437B-AFF8-A8253D302163} = {1D694844-887D-4664-901D-4C56DFDBE8FF}
+		{C3EB899E-F6A8-490C-A2A2-931950320B97} = {1D694844-887D-4664-901D-4C56DFDBE8FF}
+		{815CABA1-7F17-4F79-B967-458E3E418560} = {AD7287CC-649D-434A-88FA-32A012019888}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45550CD4-43F6-4778-A40D-FDA2C8DEF72D}

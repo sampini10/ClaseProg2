@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\bin\Debug\net5.0\NúmerosLocos.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\bin\Debug\net5.0\NúmerosLocos.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\bin\Debug\net5.0\NúmerosLocos.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\bin\Debug\net5.0\NúmerosLocos.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\bin\Debug\net5.0\NúmerosLocos.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\bin\Debug\net5.0\NúmerosLocos.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\refint\NúmerosLocos.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\NúmerosLocos.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\NúmerosLocos\obj\Debug\net5.0\ref\NúmerosLocos.dll

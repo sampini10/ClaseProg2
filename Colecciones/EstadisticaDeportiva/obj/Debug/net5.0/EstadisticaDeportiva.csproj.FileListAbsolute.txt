@@ -1,0 +1,16 @@
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.exe
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.deps.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.runtimeconfig.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.runtimeconfig.dev.json
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.csproj.AssemblyReference.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.AssemblyInfoInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.AssemblyInfo.cs
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.csproj.CoreCompileInputs.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\refint\EstadisticaDeportiva.dll
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.pdb
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.genruntimeconfig.cache
+D:\Facultad\ProgramacionC#\EjercitacionClase-Sampini-Nicolas\Colecciones\EstadisticaDeportiva\obj\Debug\net5.0\ref\EstadisticaDeportiva.dll
