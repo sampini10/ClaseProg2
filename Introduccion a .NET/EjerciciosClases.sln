@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstadisticaDeportiva", "..\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Windows Form", "5-Windows Form", "{AD7287CC-649D-434A-88FA-32A012019888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaWindowsForm", "..\Windows Forms\HolaWindowsForm\HolaWindowsForm.csproj", "{815CABA1-7F17-4F79-B967-458E3E418560}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaWindowsForm", "..\Windows Forms\HolaWindowsForm\HolaWindowsForm.csproj", "{815CABA1-7F17-4F79-B967-458E3E418560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registrate", "..\Windows Forms\Registrate\Registrate.csproj", "{AD0ACDC2-2A5B-42DC-B098-7DFFFC4D1D89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{815CABA1-7F17-4F79-B967-458E3E418560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{815CABA1-7F17-4F79-B967-458E3E418560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{815CABA1-7F17-4F79-B967-458E3E418560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0ACDC2-2A5B-42DC-B098-7DFFFC4D1D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0ACDC2-2A5B-42DC-B098-7DFFFC4D1D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0ACDC2-2A5B-42DC-B098-7DFFFC4D1D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0ACDC2-2A5B-42DC-B098-7DFFFC4D1D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -145,6 +151,7 @@ Global
 		{F90E3AE2-557C-437B-AFF8-A8253D302163} = {1D694844-887D-4664-901D-4C56DFDBE8FF}
 		{C3EB899E-F6A8-490C-A2A2-931950320B97} = {1D694844-887D-4664-901D-4C56DFDBE8FF}
 		{815CABA1-7F17-4F79-B967-458E3E418560} = {AD7287CC-649D-434A-88FA-32A012019888}
+		{AD0ACDC2-2A5B-42DC-B098-7DFFFC4D1D89} = {AD7287CC-649D-434A-88FA-32A012019888}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45550CD4-43F6-4778-A40D-FDA2C8DEF72D}
